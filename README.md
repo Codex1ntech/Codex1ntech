@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Codex1ntech
 
-<!--
-**Codex1ntech/Codex1ntech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub!
 
-Here are some ideas to get you started:
+I’m a tech enthusiast who loves building cool stuff with code. I enjoy learning new things and sharing ideas with the dev community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 What I Do
+- 🛠️ Building tools and small projects for fun and productivity  
+- 🧪 Exploring new tech, frameworks, and AI tools  
+- 📚 Constantly learning and experimenting
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Thanks for visiting! 🚀
