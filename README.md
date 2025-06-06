@@ -3,35 +3,35 @@
 </p>
 
 <h1 align="center">
-  👋 Yo! I'm <span style="color:#00bfff;">Naz</span> — Game Dev, Code Gremlin, and Automation Addict  
+  👋 Yo! I'm <span style="color:#00bfff;">Naz</span> — Gamer, Code Gremlin, and Automation Addict  
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Flag_of_Palestine.gif" alt="Palestine" width="60" />
 </h1>
 
 <p align="center">
-  👾 People call me Naz.<br>
-  🎮 I make games, break stuff, automate boring things, and pretend it was intentional.<br>
-  ☕ Fueled by caffeine, bugs, and good intentions.
+  🎮 Gamer at heart.  
+  👾 Dev by curiosity.  
+  💻 I build random tools, test them on myself, break them, then do it again for fun.
 </p>
 
 ---
 
-## 🕹️ What I Do (besides crash game engines at 2AM)
+## 🕹️ What I Do (besides rage quit at 3AM)
 
-- 👨‍💻 Full-time dev, part-time chaos wizard  
-- 🎮 Indie Game Developer — mostly Lua, Unity, and FiveM mods that "kinda work"  
-- 🤖 I automate daily stuff... so I can break it faster  
-- 📦 Build tools nobody asked for, but now I can’t live without  
-- 🧪 Learn by failing gloriously, then acting like that was the plan all along 😌  
+- 👨‍💻 I don’t build games, I break them... and then make tools to fix what I broke  
+- ⚙️ Love scripting weird utilities just to avoid 3 clicks  
+- 🧪 I test everything on myself because QA hates me  
+- 🛠️ I build tools nobody asked for, then flex them like I built Skyrim  
+- 🎮 If it runs in a terminal and can crash gloriously, I probably made it  
 
 ---
 
 ## 🧠 Currently Obsessing Over
 
-- ✨ Writing modular backend scripts like a grown-up (sometimes)  
-- ⚡ Building CLI tools that make me feel like I’m in a cyberpunk anime  
-- 🔄 Debugging past me’s code and sending hate mail to myself  
-- 📚 Reading docs I’ll ignore later anyway
+- 🧩 Automating my own chaos  
+- 🧼 Refactoring mess I swore was “temporary” six months ago  
+- ⚡ Turning dumb ideas into working scripts... accidentally  
+- 🧠 Dev tools I wish existed (so I make my own and forget I made them)
 
 ---
 
@@ -58,17 +58,17 @@
 
 ## 🔥 Random Facts About Me
 
-- My debugger is `print()` and prayer 🙏  
-- Once wrote a script so cursed, even AI refused to touch it  
-- I name my variables after snacks when I’m hungry  
-- I have more `.sh` files than real-life friends (no regrets)
+- I once built a script to mute my mic when I rage (it failed)  
+- My repo is 50% tools, 50% regrets  
+- My variables are named like: `chicken`, `banana`, `boom`, and I stand by it  
+- I don't have bugs. I have "interactive features"
 
 ---
 
 ## 💬 Quote I Tell Myself at 3AM
 
 > *“It works on my machine.”*  
-> — Me, confidently, right before chaos
+> — Me, confidently, right before production dies
 
 ---
 
