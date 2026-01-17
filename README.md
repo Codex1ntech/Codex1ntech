@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  👋 Yo! I'm <span style="color:#00bfff;">Naz</span> — Gamer, Code Gremlin, and Automation Addict  
+  👋 Yo! I'm <span style="color:#00bfff;">Codex</span> — Gamer, Code Gremlin, and Automation Addict  
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Flag_of_Palestine.gif" alt="Palestine" width="60" />
 </h1>
